@@ -30,4 +30,4 @@ O curso está em andamento e o repositório será atualizado conforme novas liç
 
 ## 📚 Sobre o Curso
 
-O **Dev Quest** é voltado para iniciantes e ensina de forma prática e descomplicada os fundamentos da programação web. Este módulo foca em HTML e CSS para criar a estrutura e estilo de páginas web. Futuramente também serei formalmente apresentada ao Java Script.
+O **Dev Quest** é voltado para iniciantes e ensina de forma prática e descomplicada os fundamentos da programação web, do básico ao avançado. Este módulo foca em HTML e CSS para criar a estrutura e estilo de páginas web. Futuramente também serei formalmente apresentada ao Java Script.
