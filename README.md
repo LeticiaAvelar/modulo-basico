@@ -11,7 +11,7 @@ Este projeto faz parte do curso **Dev Quest** ministrado pelo canal **Dev em Dob
 
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> **HTML**: Estrutura e organização das páginas.
 
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">**CSS**: Estilização e layout responsivo.
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> **CSS**: Estilização e layout responsivo.
 
 
 
