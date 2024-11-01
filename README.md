@@ -1,8 +1,10 @@
 # Módulo Básico - HTML & CSS
 
+
 Bem-vindo(a) ao repositório **Módulo Básico**! 🎉
 
 Este projeto faz parte do curso **Dev Quest** ministrado pelo canal **Dev em Dobro**, onde estão concentradas as aulas e exercícios sobre HTML e CSS. O objetivo é desenvolver uma base sólida em construção de páginas web e estilização, através de projetos práticos e conceitos fundamentais.
+
 
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
@@ -12,15 +14,18 @@ Este projeto faz parte do curso **Dev Quest** ministrado pelo canal **Dev em Dob
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">**CSS**: Estilização e layout responsivo.
 
 
+
 ## 📂 Estrutura do Repositório
 
 - `modulo-html-basico/` e `modulo-css-basico/`: Códigos de exemplos apresentados durante as aulas.
 - `exercicios-html-css-basico/`: Desafios e exercícios práticos realizados para reforçar os conceitos.
 
 
+
 ## 📈 Progresso
 
 O curso está em andamento e o repositório será atualizado conforme novas lições forem concluídas.
+
 
 
 ## 📚 Sobre o Curso
